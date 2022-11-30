@@ -1,0 +1,19 @@
+:root {
+	--dot-radius: 2em;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body, html {
+  background-color: #121212;
+}
+
+
+div#root {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
